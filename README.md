@@ -1,6 +1,6 @@
 Modelling and exploring low dimensional manifolds. I don't understand their words but I know they're talking.
 
-I care about AI and financial quantitative research.
+Focused on AI and Financial Quantitative Research.
 
 Some "_DS" repositories might not be very recent projects, but they are also important as they are part of my project portfolio.
 
