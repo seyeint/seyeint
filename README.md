@@ -1,4 +1,4 @@
-Modelling and exploring low dimensional manifolds. I don't understand their words but I know they're talking.
+What can't you do without bad critical proints and a bit of endegenous or exogenous noise?
 
 Focused on AI and Financial Quantitative Research.
 
